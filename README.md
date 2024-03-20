@@ -14,9 +14,9 @@ O repositório contém os seguintes arquivos:
 1. Certifique-se de ter um compilador C instalado em seu sistema.
 2. Clone este repositório para o seu ambiente local.
 3. Abra um terminal e navegue até o diretório onde o repositório foi clonado.
-4. Compile o arquivo `codigo.c` usando um compilador C. Por exemplo:
+4. Compile o arquivo `question-n/main.c.c` usando um compilador C. Por exemplo:
    ```bash
-   gcc codigo.c -o ./question-n/main.c  // n representa o número da questão
+   gcc ./question-n/main.c -o  // n representa o número da questão
    ```
 5. Execute o programa compilado:
 
